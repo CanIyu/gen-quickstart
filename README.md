@@ -44,7 +44,7 @@ Navigate to the [Tutorials](Tutorials.ipynb) notebook to get started!
 
 If you want to try Gen immediately, click this `goolge colab` button!!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CanIyu/gen-quickstart-on-google-colab/blob/main/settingGenOnGColab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/probcomp/gen-quickstart/blob/master/settingGenOnGColab.ipynb)
 
 ## TensorFlow or PyTorch integration
 
